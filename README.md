@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am Master's student in CS at SJSU with a rich background in web development an datascience. I am proficient in Java, Python, and Javascript. I'm also adept in Machine Learning skills like Tensorflow, Keras, and Scikit-learn. I ahve over 3 years of professional software development experience. I previously worked at Tata Consultancy Services Ltd. I'm passionate about coding and a quick learner.
+I am a Master's student in CS at SJSU with a rich background in web development an datascience. I am proficient in Java, Python, and Javascript. I'm also adept in Machine Learning skills like Tensorflow, Keras, and Scikit-learn. I ahve over 3 years of professional software development experience. I previously worked at Tata Consultancy Services Ltd. I'm passionate about coding and a quick learner.
 
 
 ## 🌐 Socials:
