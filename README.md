@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am a Master's student in CS at SJSU with a rich background in web development an datascience. I am proficient in Java, Python, and Javascript. I'm also adept in Machine Learning skills like Tensorflow, Keras, and Scikit-learn. I ahve over 3 years of professional software development experience. I previously worked at Tata Consultancy Services Ltd. I'm passionate about coding and a quick learner.
+I am a Master's student in Computer Science at San Jose State University with a strong focus on full stack web development and Generative AI. Proficient in Java, Python, and JavaScript, I have over three years of professional experience, including developing high-performance RESTful APIs and integrating AI models. I excel in using technologies like SpringBoot, Angular, and OpenAI to create innovative solutions. My projects include building advanced chatbots and enhancing search capabilities with LLMs, demonstrating my ability to solve real-world problems and drive technological innovation.
 
 
 ## 🌐 Socials:
